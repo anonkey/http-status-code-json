@@ -1,0 +1,26 @@
+{
+  "name": "http-status-code-json-list",
+  "version": "1.0.0",
+  "description": "Http status code infos in a key => value object by status code",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonkey/http-status-code-json.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "code",
+    "json",
+    "list"
+  ],
+  "author": "anonkey",
+  "license": "./LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/anonkey/http-status-code-json/issues"
+  },
+  "homepage": "https://github.com/anonkey/http-status-code-json#readme"
+}
